@@ -48,4 +48,8 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/5d6145c4-95f5-4763-bc93-67d4d79f2794)
 
+&nbsp;
+
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;To Conclude, the data from September 2023 shows that..
+
 
