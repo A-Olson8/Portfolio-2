@@ -22,6 +22,8 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
+
+
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, the FAA also wishes to know what are the most congested arports in the country (in terms of overall delays, late arrivals, and taxi in/out times).
 
 &nbsp;
@@ -36,6 +38,8 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
+
+
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most delays in the country.
 
 &nbsp;
@@ -47,6 +51,7 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard6
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/a49933ee-6806-4ab1-b779-894c057a8d4c)
+
 
 &nbsp;
 
