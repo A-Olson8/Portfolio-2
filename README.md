@@ -6,7 +6,7 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard1
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard1
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/0fd3f347-75e7-42ea-986c-73b9c64c510b)
 
