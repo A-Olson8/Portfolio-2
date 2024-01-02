@@ -4,7 +4,7 @@
 
 https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard1
 
-![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/10670c57-123f-4c99-b4f3-2fe3bac86ec7)
+![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/cbbe51f9-8ca4-465f-8422-2385901889d1)
 
 https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard2
 
