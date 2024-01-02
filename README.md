@@ -1,7 +1,7 @@
 # Portfolio-3/Airline Delay Analysis
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;To Improve efficiency, the Federal Aviation Administration (FAA) wants to know to how often flights are delayed, and for what reason.
-The dataset shows all flight delays in September 2023, and will give a good indication on why delays occur, at which airlines they occur the most, and which airports are the most congested.
+The dataset shows all flight delays in September 2023, and will give a good indication on why delays occur, at which airlines they occur the most, and at which airports delays occur the most congested.
 
 
 &nbsp;
