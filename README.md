@@ -1,6 +1,7 @@
 # Portfolio-3/Airline Delay Analysis
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;To Improve efficiency, the Federal Aviation Administration (FAA) wants to know to how often flights are delayed, and for what reason.
+The Dataset shows all flight delays in September 2023, and will give a good indication on why delays occur, which airports they occur the most, and at which airlines they occur the most.
 
 
 &nbsp;
@@ -11,7 +12,7 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Notice below that weather delays make up only about 5% of delays.  While 
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Notice below that weather delays make up only 5.11% of delays.  While late aircraft delays make up 14.87% of delay occurances, they account for over a third of total delay minutes
 
 &nbsp;
 
