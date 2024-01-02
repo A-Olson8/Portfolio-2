@@ -12,7 +12,7 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Notice below that weather delays make up only 5.11% of delays.  While late aircraft delays make up 14.87% of delay occurances, they account for over a third of total delay minutes.  
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Notice below that weather delays make up only 5.11% of delays.  While late aircraft delays make up 14.87% of delay occurances, they account for over a third of total delay minutes.  Carrier Delays (delays caused by the airline) account for another large shair of delays.
 
 &nbsp;
 
@@ -22,7 +22,7 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, they wish to know what are the most congested arports in the country
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, the FAA also wishes to know what are the most congested arports in the country (in terms of ).
 
 &nbsp;
 
