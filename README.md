@@ -6,6 +6,12 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/a8f2ad7b-2578-4818-9754-7170e13c11af)
 
+&nbsp;
+
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Notice below that weather delays make up only about 5% of delays.  While 
+
+&nbsp;
+
 https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard2
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/a5e96154-ede8-46a6-ae53-c01b8a1d6c46)
