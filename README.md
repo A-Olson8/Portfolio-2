@@ -3,12 +3,13 @@
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;To Improve efficiency, the Federal Aviation Administration (FAA) wants to know to how often flights are delayed, and for what reason.
 The dataset shows all flight delays in September 2023, and will give a good indication on why delays occur.  Furthermore, the data will give an indication of which airlines and airports experience the most delays.
 
-
 &nbsp;
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard1
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/0fd3f347-75e7-42ea-986c-73b9c64c510b)
+
+&nbsp;
 
 &nbsp;
 
@@ -26,6 +27,8 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
+&nbsp;
+
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, the FAA also wishes to know what are the most congested arports in the country (in terms of overall delays, late arrivals, and taxi in/out times).
 
 &nbsp;
@@ -37,6 +40,8 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard4
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/80c38908-9b26-430d-a2ee-927866c6c366)
+
+&nbsp;
 
 &nbsp;
 
