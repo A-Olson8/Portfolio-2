@@ -16,7 +16,7 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard2
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard2
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/a90ca7c4-babc-42a3-84f8-75f3c9007b00)
 
@@ -28,11 +28,11 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
-https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard3
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard3
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/1abb1a4a-b363-41c3-97bd-c7458d98056c)
 
-https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard4
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard4
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/80c38908-9b26-430d-a2ee-927866c6c366)
 
@@ -44,11 +44,11 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
-https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard5
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard5
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/b3441ee8-c272-4cd6-bace-32051a03d0b6)
 
-https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard6
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard6
 
 ![image](https://github.com/A-Olson8/Portfolio-3/assets/95314634/a49933ee-6806-4ab1-b779-894c057a8d4c)
 
