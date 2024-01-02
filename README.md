@@ -22,7 +22,7 @@ https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortf
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, the FAA also wishes to know what are the most congested arports in the country (in terms of ).
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, the FAA also wishes to know what are the most congested arports in the country (in terms of overall delays, late arrivals, and taxi in/out times).
 
 &nbsp;
 
