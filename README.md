@@ -13,8 +13,6 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&nbsp;
-
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Notice below that weather delays make up only 5.11% of delays.  While late aircraft delays make up 14.87% of delay occurances, they account for over a third of total delay minutes.  Carrier delays (delays caused by the airline) account for another large shair of delays.
 
 &nbsp;
@@ -38,8 +36,6 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard4
 
 ![Screenshot from 2024-05-21 17-27-12](https://github.com/A-Olson8/Portfolio-2/assets/95314634/21479bfd-ae12-422f-a578-2f2687644844)
-
-&nbsp;
 
 &nbsp;
 
