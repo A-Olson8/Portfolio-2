@@ -47,7 +47,7 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most delays in the country.
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most carrier delays in the country.  They also want to know which airlines had highest percentage of their flights delayed (for carrier reasons).
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard6
 
