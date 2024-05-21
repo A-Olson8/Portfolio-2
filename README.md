@@ -27,8 +27,6 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&nbsp;
-
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, the FAA also wishes to know what are the most congested airports in the country (in terms of overall delays, late arrivals, and taxi in/out times).
 
 &nbsp;
@@ -45,7 +43,6 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&nbsp;
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most delays in the country.
 
