@@ -41,6 +41,10 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 ![Screenshot from 2024-05-21 17-27-39](https://github.com/A-Olson8/Portfolio-2/assets/95314634/b44208e8-fd31-4422-a4ec-83a1d20b285a)
 
+&nbsp;
+
+&nbsp;
+
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most delays in the country.
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard6
