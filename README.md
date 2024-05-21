@@ -27,7 +27,7 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;The FAA also wants to know what are the most congested airports in the country (in terms of overall delays, late arrivals, and taxi in/out times).  The six charts below will allow them to see which which airports are consistantly congested across multiple categories.
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;The FAA also wishes to know what are the most congested airports in the country (in terms of overall delays, late arrivals, and taxi in/out times).  The six charts below will allow them to see which which airports are consistantly congested across multiple categories.
 
 &nbsp;
 
@@ -47,7 +47,7 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most carrier delays in the country.  They also want to know which airlines had highest percentage of their flights delayed (for carrier reasons).
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA would like to identify which airlines had the most carrier delays in the country.  They also want to know which airlines had highest percentage of their flights delayed (for carrier reasons).
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard6
 
@@ -63,6 +63,6 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;To Conclude, the FAA was able to ascertane that in September 2023, the most congested airpots across the board where New York (JFK), Chicago(Ord), Dallas/Fort Worth(DFW), Los Angeles(LAX), Las Vegas(LAS), and Boston(Bos).  These airports may be overcongensted with antequated infastructure.  As for airlines, the airliners with the highest number of carrier delays where Southwest, Delta, American, and United Airlines.  However, since these are larger airlines, the percentage of their flights that had a carrier delay was relatively low.  Large airlines that had a high percentage of their flights experience a carrier delay where JetBlue, Frontier, and Spirit Airlines.  These airlines may have maintenance and personel issues that contribute to these delays The FAA will use this data for further consideration on how/where they can decrease delays.
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;To Conclude, after analysing the charts, the FAA was able to ascertane that in September 2023, the most congested airpots across the board where New York (JFK), Chicago(Ord), Dallas/Fort Worth(DFW), Los Angeles(LAX), Las Vegas(LAS), and Boston(Bos).  These airports may be overcongensted with antequated infastructure.  As for airlines, the airliners with the highest number of carrier delays where Southwest, Delta, American, and United Airlines.  However, since these are larger airlines, the percentage of their flights that had a carrier delay was relatively low.  Large airlines that had a high percentage of their flights experience a carrier delay where JetBlue, Frontier, and Spirit Airlines.  These airlines may have maintenance and personel issues that contribute to these delays The FAA will use this data for further consideration on how/where they can decrease delays.
 
 
