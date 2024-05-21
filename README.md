@@ -25,7 +25,7 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 &nbsp;
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Furthurmore, the FAA also wishes to know what are the most congested airports in the country (in terms of overall delays, late arrivals, and taxi in/out times).
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;The FAA also wants to know what are the most congested airports in the country (in terms of overall delays, late arrivals, and taxi in/out times).
 
 &nbsp;
 
@@ -37,16 +37,11 @@ The dataset shows all flight delays in September 2023, and will give a good indi
 
 ![Screenshot from 2024-05-21 17-27-12](https://github.com/A-Olson8/Portfolio-2/assets/95314634/21479bfd-ae12-422f-a578-2f2687644844)
 
-&nbsp;
-
-
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most delays in the country.
-
-&nbsp;
-
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard5
 
 ![Screenshot from 2024-05-21 17-27-39](https://github.com/A-Olson8/Portfolio-2/assets/95314634/b44208e8-fd31-4422-a4ec-83a1d20b285a)
+
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Lastly, for delays caused by airlines, the FAA wants to know which airlines had the most delays in the country.
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;https://public.tableau.com/app/profile/aaron.olson/viz/AirlineDelayAnalysisPortfolioProject/Dashboard6
 
